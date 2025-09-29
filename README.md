@@ -1,4 +1,4 @@
-# License Plate Recognition 🚗
+# License Plate Detection 🚗
 
 ![](./license_detection.gif)
 
