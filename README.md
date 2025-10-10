@@ -10,7 +10,9 @@
 ```bash
 pip install -r requirements.txt
 
-cvproj\Scripts\activate        
+python -m venv .venv 
+
+.venv\Scripts\activate        
 
 streamlit run app.py
 ```
